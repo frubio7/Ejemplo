@@ -1,4 +1,3 @@
 # Ejemplo
-Aqui se pindran las instrucciones
+Aqui se pondran las instrucciones
 
-Autor: Francisco Rubio Morón

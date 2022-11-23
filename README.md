@@ -14,3 +14,5 @@ ya manejo esto bien eh
 
 eres el maquina colega
 eres el totalpro
+
+tu lo eres mas loco
